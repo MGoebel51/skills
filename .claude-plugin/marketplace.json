@@ -1,0 +1,29 @@
+{
+  "name": "mattpococky-skills",
+  "id": "mattpocock-skills",
+  "owner": {
+    "name": "mattpocock"
+  },
+  "metadata": {
+    "description": "Skills from mattpocock",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "mattpococky-skills",
+      "source": "./",
+      "description": "Skills from mattpocock",
+      "version": "1.0.0",
+      "author": {
+        "name": "mattpocock"
+      },
+      "keywords": [
+        "guidelines",
+        "best-practices",
+        "coding",
+        "mattpocock"
+      ],
+      "category": "workflow"
+    }
+  ]
+}
